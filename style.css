@@ -229,6 +229,7 @@ p{
     animation: text_reveal .5s ease forwards;
     animation-delay: 1s;
 }
+
 #hero h1:nth-child(1){
     animation-delay: 1s;
 }
@@ -293,28 +294,28 @@ p{
 
 }
 #services .service-item:nth-child(1){
-    background-image: url(P4.jpg.jpg);
+    background-image: url(black.jpg.jpg);
     background-image: cover;
     margin: 20px 5%;
     position: relative;
     z-index: 1;
 }
 #services .service-item:nth-child(2){
-    background-image: url(P4.jpg.jpg);
+    background-image: url(black.jpg.jpg);
     background-image: cover;
     margin: 20px 5%;
     position: relative;
     z-index: 1;
 }
 #services .service-item:nth-child(3){
-    background-image: url(P4.jpg.jpg);
+    background-image: url(black.jpg.jpg);
     background-image: cover;
     margin: 20px 5%;
     position: relative;
     z-index: 1;
 }
 #services .service-item:nth-child(4){
-    background-image: url(P4.jpg.jpg);
+    background-image: url(black.jpg.jpg);
     background-image: cover;
     margin: 20px 5%;
     position: relative;
